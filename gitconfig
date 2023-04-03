@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jweber4213@gmail.com
+	name = joe weber
